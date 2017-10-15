@@ -1,2 +1,2 @@
 # emacs.el
-make my emacs better.
+my emacs.el
